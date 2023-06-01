@@ -1,7 +1,7 @@
 # React-Weather-Application
 
 The Weather App is a simple and intuitive application that provides users with accurate and up-to-date weather information for any location around the world. It offers a range of features and a user-friendly interface, making it easy for users to access the weather details they need.
-Features
+##Features
 
     Current Weather: The app displays the current weather conditions, including temperature, humidity, wind speed, and more, for the selected location.
 
@@ -15,12 +15,12 @@ Features
 
     Notifications: The app can send push notifications to users, alerting them about severe weather conditions or changes in their favorite locations' weather.
 
-Installation
+##Installation
 
 To use the Weather App, follow these steps:
 
-    Clone the repository: git clone https://github.com/your-username/weather-app.git
-    Navigate to the project directory: cd weather-app
+    Clone the repository: git clone https://github.com/mukeshmahato18/React-Weather-Application.git
+    Navigate to the project directory: cd React-Weather-Application
     Install the required dependencies: npm install
     Start the application: npm start
     Access the app in your web browser at: http://localhost:3000
