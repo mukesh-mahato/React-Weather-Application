@@ -1,6 +1,7 @@
 # React-Weather-Application
 
 The Weather App is a simple and intuitive application that provides users with accurate and up-to-date weather information for any location around the world. It offers a range of features and a user-friendly interface, making it easy for users to access the weather details they need.
+
 ##Features
 
     Current Weather: The app displays the current weather conditions, including temperature, humidity, wind speed, and more, for the selected location.
@@ -14,6 +15,7 @@ The Weather App is a simple and intuitive application that provides users with a
     Favorites: Users can mark specific locations as favorites for quick access to their weather information.
 
     Notifications: The app can send push notifications to users, alerting them about severe weather conditions or changes in their favorite locations' weather.
+    
 
 ##Installation
 
