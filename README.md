@@ -52,6 +52,19 @@ Contributions to the Weather App are welcome and encouraged. To contribute:
 
 Please ensure your contributions adhere to the project's coding conventions and guidelines.
 
+## License
 
+The Weather App is open-source software licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the application as per the terms of this license.
 
+## Acknowledgements
 
+The Weather App is built with the support and utilization of various open-source libraries, frameworks, and APIs. The developers would like to acknowledge and express gratitude to the following:
+
+- [React](https://reactjs.org)
+- [OpenWeatherMap](https://openweathermap.org)
+- [axios](https://github.com/axios/axios)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Create React App](https://create-react-app.dev)
+- [GitHub](https://github.com)
+
+Thank you for using the Weather App! We hope it helps you stay informed about the weather conditions and plan your activities accordingly. If you have any questions or feedback, please don't hesitate to contact us.
