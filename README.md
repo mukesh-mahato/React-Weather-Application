@@ -1,21 +1,19 @@
+
 # React-Weather-Application
 
 The Weather App is a simple and intuitive application that provides users with accurate and up-to-date weather information for any location around the world. It offers a range of features and a user-friendly interface, making it easy for users to access the weather details they need.
 
-##Features
 
-    Current Weather: The app displays the current weather conditions, including temperature, humidity, wind speed, and more, for the selected location.
 
-    Hourly Forecast: Users can view the weather forecast for the next few hours, including temperature changes and expected weather conditions.
+## Features
 
-    Daily Forecast: The app provides a 7-day weather forecast, allowing users to plan ahead and stay informed about upcoming weather changes.
-
-    Location Search: Users can search for any location worldwide and get the weather information for that specific area.
-
-    Favorites: Users can mark specific locations as favorites for quick access to their weather information.
-
-    Notifications: The app can send push notifications to users, alerting them about severe weather conditions or changes in their favorite locations' weather.
-    
+- Current Weather: The app displays the current weather conditions, including temperature, humidity, wind speed, and more, for the selected location.
+- Hourly Forecast: Users can view the weather forecast for the next few hours, including temperature changes and expected weather conditions.
+- Daily Forecast: The app provides a 7-day weather forecast, allowing users to plan ahead and stay informed about upcoming weather changes.
+- Location Search: Users can search for any location worldwide and get the weather information for that specific area.
+- Favorites: Users can mark specific locations as favorites for quick access to their weather information.
+- Notifications: The app can send push notifications to users, alerting them about severe weather conditions or changes in their favorite locations' weather.
+- 
 
 ##Installation
 
