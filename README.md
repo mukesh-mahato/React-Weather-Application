@@ -62,9 +62,9 @@ The Weather App is built with the support and utilization of various open-source
 
 - [React](https://reactjs.org)
 - [OpenWeatherMap](https://openweathermap.org)
-- [axios](https://github.com/axios/axios)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Create React App](https://create-react-app.dev)
 - [GitHub](https://github.com)
+- Tailwind CSS
 
 Thank you for using the Weather App! We hope it helps you stay informed about the weather conditions and plan your activities accordingly. If you have any questions or feedback, please don't hesitate to contact us.
